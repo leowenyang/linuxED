@@ -1,2 +1,2 @@
 # linuxED
-linux every day
+linux every day to note everything
